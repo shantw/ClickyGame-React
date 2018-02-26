@@ -1,62 +1,62 @@
 [
     {
-        "breed": "Mercedes",
+        "brand": "Mercedes",
         "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/uploads/zinnia/2017/11/16/pexels-photo-193991.jpg.644x529_q100.jpg"
     },
     {
-        "breed": "Range",
+        "brand": "Range",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/2013_Land_Rover_Range_Rover_Evoque_%28L538_MY13.5%29_SD4_Pure_Tech_4WD_5-door_wagon_%282015-11-13%29_01.jpg"
     },
     {
-        "breed": "Mustang",
+        "brand": "Mustang",
         "image": "https://imgd.aeplcdn.com/1280x720/cw/ec/23766/Ford-Mustang-Right-Front-Three-Quarter-76173.jpg?wm=0&q=100"
     },
     {
-        "breed": "McLaren",
+        "brand": "McLaren",
         "image": "https://robbreportedit.files.wordpress.com/2015/05/mclaren_540c_2206-oli-tennent1.jpg"
     },
     {
-        "breed": "Maserati",
+        "brand": "Maserati",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoH66lOSKA5ihx5_nIvPKsrs4JoORYnh7VX_shDZnrqKDtKxG"
     },
     {
-        "breed": "Camaro",
+        "brand": "Camaro",
         "image": "https://turaha.files.wordpress.com/2011/12/vr-camaro-reventon-style-muscle-cars-8996569-800-512.jpg?w=800"
     },
     {
-        "breed": "BMW",
+        "brand": "BMW",
         "image": "https://smedia2.intoday.in/btmt/images/Photo_gallery/bmw_021915072952.jpg"
     },
     {
-        "breed": "Bugatti",
+        "brand": "Bugatti",
         "image": "https://www.radiostyrda-modeller.se/images/products/9456_quickbuild_bugatti_veyron_airfix.jpg"
     },
     {
-        "breed": "Ferrari",
+        "brand": "Ferrari",
         "image": "https://imgd.aeplcdn.com/1056x594/cw/ec/21101/Ferrari-488-Right-Front-Three-Quarter-61997.jpg?v=201711021421&q=80"
     },
     {
-        "breed": "Lamborghini",
+        "brand": "Lamborghini",
         "image": "https://www.anerdsworld.com/wp-content/uploads/2015/08/expensive-web-site-design.jpg"
     },
     {
-        "breed": "Porche",
+        "brand": "Porche",
         "image": "http://st.motortrend.com/uploads/sites/10/2015/11/2014-porsche-boxster-s-convertible-angular-front.png"
     },
     {
-        "breed": "Audi",
+        "brand": "Audi",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1n2Db48kSHWUwuqfHQVfXY6TrOhpiyxmhIfjgZqcJ9dAkqmF"
     },
     {
-        "breed": "bentley",
+        "brand": "bentley",
         "image": "http://www.thesupercars.org/wp-content/uploads/2011/08/2012-Bentley-Continental-GT-Mulliner-Front-Angle-Profile-480.jpg"
     },
     {
-        "breed": "Infiniti",
+        "brand": "Infiniti",
         "image": "http://hdwarena.com/wp-content/uploads/2017/11/Red-Infiniti-Car.jpg"
     },
     {
-        "breed": "Alfa",
+        "brand": "Alfa",
         "image": "http://www.largehdwallpapers.com/wp-content/uploads/2016/05/2016-4C-COUPE-HD-Cars-Wallpapers.jpg"
     }
 ]
